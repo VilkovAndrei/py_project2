@@ -1,4 +1,4 @@
-def summa(a, b):
+def _plus(a, b):
     return a + b
 
 def diff(a, b):
